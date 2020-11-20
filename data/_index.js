@@ -1,1 +1,1 @@
-export const target = "https://mattcowley.co.uk";
+export const target = "https://discord.gg/c8mq6cDwjF";
