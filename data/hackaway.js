@@ -1,1 +1,1 @@
-export const target = "https://royalhackaway.com/events/hackawayv4/";
+export const target = "https://royalhackaway.com/";
