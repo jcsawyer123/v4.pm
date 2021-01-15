@@ -1,1 +1,1 @@
-export const target = "guides.github.com/activities/hello-world";
+export const target = "https://guides.github.com/activities/hello-world";
